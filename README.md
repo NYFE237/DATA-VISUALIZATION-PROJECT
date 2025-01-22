@@ -8,8 +8,8 @@ This dataset was created by extracting tables from a PDF document. It serves as 
 The process likely involved using the pdftools package, developed by rOpenSci, to scrape and organize the tabular data from the PDF source.
 
 
-#Presentation
-For the presentation:
-*1-Open tbi.py on your python environment
-*2- Install streamlit 
-*3- Execute this command in the terminal :  streamlit run tbi.py
+# Presentation:
+Follow the steps as metionned here:
+* 1-Open tbi.py on your python environment
+* 2- Install streamlit 
+* 3- Execute this command in the terminal :  streamlit run tbi.py
